@@ -1,0 +1,2 @@
+# Minux
+os for study
